@@ -1,3 +1,6 @@
+WiFi101 0.6.0 - 2015.11.27
+
+* Fixed bug with AVR boards when Web Server is used
 
 WiFi101 0.5.1 - 2015.10.06
 
